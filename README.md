@@ -1,6 +1,7 @@
 # parrot-finder
+Web Crawler for system76's parrot scavenger hunt thing.
 
-
+eventually i'll just switch it to a general web crawler where you give a website and a term to search for.
 --SETUP--
 
 npm i
